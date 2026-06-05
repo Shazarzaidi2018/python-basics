@@ -1,12 +1,9 @@
-### Maintained by [Shazar Zaidi].
+# Python Coder
 
-I have written some basic programms in python.
-if anyone wants to take these programs so you can download.
+A basic Python project created during my college learning phase.
 
+## Technologies
+- Python
 
-## Contact
-
-For any questions or suggestions, feel free to contact me:
-
-- Name: [Shazar Zaidi]
-- Email: [shazarzaidi2018@gmail.com]
+## Purpose
+Practice Python fundamentals and problem solving.
